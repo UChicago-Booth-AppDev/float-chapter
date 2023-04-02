@@ -5,4 +5,9 @@
 # 
 # 5.3
 
+side_1 = 2.8
+side_2 = 4.5
 
+side_3 = (side_1**2 + side_2**2)**0.5
+
+p side_3
